@@ -1,0 +1,5 @@
+- тело у ошибок
+- example в схемах у полей
+- неправильное requestBody у PATCH /person/{personId}
+- поменять ответ 200 у DELETE /person/{personId}
+- /demography/eye-color/{eye-color}/percentage: 
